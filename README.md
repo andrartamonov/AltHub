@@ -70,6 +70,8 @@ Android Music Player -> [Musicolet](https://play.google.com) / [Auxio](https://g
 
 Android Book Tracker -> [Openreads](https://github.com/mateusz-bak/openreads)
 
+Android Contacts -> [Fossify Contacts](https://github.com/FossifyOrg/Contacts)
+
 
 ## Advanced Installation
 
