@@ -32,7 +32,7 @@ Email Protection -> [Proton Mail Aliases](https://proton.me/mail) / [SimpleLogin
 
 Calendar -> [Proton Calendar](https://proton.me/calendar) / [Fossify Calendar (Android)](https://github.com/FossifyOrg/Calendar)
 
-Tasks and Habits -> [Habitica](https://habitica.com) / [Todoist](https://www.todoist.com) / [Any.Do](https://www.any.do) / [TickTick](https://ticktick.com) / [Tasks.org (Android)](https://github.com/tasks/tasks)
+Tasks and Habits -> [Habitica](https://habitica.com) / [Todoist](https://www.todoist.com) / [TickTick](https://ticktick.com) / [Tasks.org (Android)](https://github.com/tasks/tasks)
 
 Notes -> [Obsidian](https://obsidian.md) / [Joplin](https://github.com/laurent22/joplin) / [Quillpad (Android)](https://github.com/quillpad/quillpad)
 
