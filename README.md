@@ -18,7 +18,7 @@ If you are tired of privacy and security issues and want to improve them, this l
 
 ## Simple Installation
 
-Browser -> [Firefox](https://www.mozilla.org/en-US/firefox/new/) / [Brave](https://brave.com) / [DuckDuckGo](https://duckduckgo.com/app) / [LibreWolf](https://librewolf.net)
+Browser -> [Firefox](https://www.mozilla.org/en-US/firefox/new/) / [Brave](https://brave.com) / [DuckDuckGo](https://duckduckgo.com/app)
 
 Browser Extensions -> [uBlock Origin](https://github.com/gorhill/uBlock) / [DuckDuckGo Privacy Essentials](https://github.com/duckduckgo/duckduckgo-privacy-extension) / [Privacy Badger](https://github.com/EFForg/privacybadger)
 
@@ -86,6 +86,8 @@ AI Chat -> [Ollama](https://github.com/ollama/ollama) / [Jan](https://github.com
 AI Image Generator -> [ComfyUI](https://github.com/Comfy-Org/ComfyUI) / [Easy Diffusion](https://github.com/easydiffusion/easydiffusion)  
 
 Synchronization -> [Syncthing](https://github.com/syncthing/syncthing)
+
+Browser -> [LibreWolf](https://librewolf.net)
 
 Android App Store -> [Obtainium](https://github.com/ImranR98/Obtainium) / [Accrescent](https://github.com/accrescent/accrescent) / [OpenAPK](https://github.com/mobilenetworkltd/openapk)
 
