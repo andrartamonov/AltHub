@@ -18,7 +18,7 @@ If you are tired of privacy and security issues and want to improve them, this l
 
 ## Simple Installation
 
-Browser -> [Firefox](https://www.mozilla.org/en-US/firefox/new/) / [Brave](https://brave.com) / [DuckDuckGo](https://duckduckgo.com/app)
+Browser -> [Firefox](https://www.mozilla.org/en-US/firefox/new/) / [Brave](https://brave.com) / [DuckDuckGo](https://duckduckgo.com/app) / [LibreWolf](https://librewolf.net)
 
 Browser Extensions -> [uBlock Origin](https://github.com/gorhill/uBlock) / [DuckDuckGo Privacy Essentials](https://github.com/duckduckgo/duckduckgo-privacy-extension) / [Privacy Badger](https://github.com/EFForg/privacybadger)
 
