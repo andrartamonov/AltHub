@@ -87,7 +87,7 @@ AI Image Generator -> [ComfyUI](https://github.com/Comfy-Org/ComfyUI) / [Easy Di
 
 Synchronization -> [Syncthing](https://github.com/syncthing/syncthing)
 
-Browser Desktop -> [LibreWolf](https://librewolf.net)
+Browser Desktop -> [LibreWolf](https://librewolf.net) / [Ungoogled Chromium ](https://github.com/ungoogled-software/ungoogled-chromium)
 
 Android App Store -> [Obtainium](https://github.com/ImranR98/Obtainium) / [Accrescent](https://github.com/accrescent/accrescent) / [OpenAPK](https://github.com/mobilenetworkltd/openapk)
 
