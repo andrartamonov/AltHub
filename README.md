@@ -62,6 +62,8 @@ Screen Capture -> [ShareX](https://github.com/ShareX/ShareX)
 
 Communication -> [Signal](https://signal.org) / [Element](https://element.io) / [SimpleX](https://simplex.chat) / [Stoat](https://stoat.chat) / [Jitsi Meet](https://jitsi.org) / [Rocket.Chat](https://rocket.chat)
 
+Android Browser -> [Brave](https://brave.com)
+
 Android Photo Gallery -> [Fossify Gallery](https://github.com/FossifyOrg/Gallery)
 
 Android File Manager -> [Fossify File Manager](https://github.com/FossifyOrg/File-Manager) / [Material Files](https://github.com/zhanghai/MaterialFiles)
