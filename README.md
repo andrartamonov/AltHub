@@ -93,7 +93,7 @@ Firewall -> [Simplewall](https://github.com/henrypp/simplewall) / [Rethink (Andr
 
 AI Chat -> [Ollama](https://github.com/ollama/ollama) / [Unsloth](https://github.com/unslothai/unsloth) / [Jan](https://github.com/menloresearch/jan) / [LM Studio](https://lmstudio.ai) / [Continue](https://github.com/continuedev/continue) / [Scira](https://github.com/zaidmukaddam/scira) / [Perplexica](https://github.com/ItzCrazyKns/Perplexica) / [LocalAI](https://github.com/mudler/LocalAI) / [PocketPal AI (Android)](https://github.com/a-ghorbani/pocketpal-ai)
 
-AI Image Generator -> [ComfyUI](https://github.com/Comfy-Org/ComfyUI) / [Easy Diffusion](https://github.com/easydiffusion/easydiffusion)  
+AI Image Generator -> [ComfyUI](https://github.com/Comfy-Org/ComfyUI) / [Easy Diffusion](https://github.com/easydiffusion/easydiffusion) / [Fooocus](https://github.com/lllyasviel/Fooocus)
 
 Synchronization -> [Syncthing](https://github.com/syncthing/syncthing)
 
