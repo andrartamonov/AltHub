@@ -128,7 +128,7 @@ Streaming Service -> [Jellyfin](https://github.com/jellyfin/jellyfin) / [Navidro
 
 Development Tools -> [Gitea](https://github.com/go-gitea/gitea)
 
-Server Software -> [Gotify](https://github.com/gotify/server) - [File Browser](https://github.com/filebrowser/filebrowser)
+Server Software -> [Gotify](https://github.com/gotify/server) - [File Browser](https://github.com/filebrowser/filebrowser) - [Termix](https://github.com/Termix-SSH/Termix)
 
 DNS -> [Pi-Hole](https://github.com/pi-hole/pi-hole) / [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome) - [Dnscrypt-Proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - [Unbound](https://github.com/NLnetLabs/unbound)   
 
@@ -138,7 +138,7 @@ Document Management -> [Paperless-Ngx](https://github.com/paperless-ngx/paperles
 
 Communication -> [Mumble](https://github.com/mumble-voip/mumble) / [Jitsi Meet](https://github.com/jitsi/jitsi-meet) / [Stoat](https://github.com/stoatchat/self-hosted) 
 
-Remote Tools -> [RustDesk](https://github.com/rustdesk/rustdesk) / [Termix](https://github.com/Termix-SSH/Termix)
+Remote Tools -> [RustDesk](https://github.com/rustdesk/rustdesk)
 
 
 ## Useful Links
