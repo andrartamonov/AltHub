@@ -91,7 +91,7 @@ Hypervisor OS -> [Proxmox VE](https://en.wikipedia.org/wiki/Proxmox_Virtual_Envi
 
 Firewall -> [Simplewall](https://github.com/henrypp/simplewall) / [Rethink (Android)](https://github.com/celzero/rethink-app) / [Portmaster](https://github.com/safing/portmaster) / [NetGuard (Android)](https://github.com/M66B/NetGuard)
 
-AI Chat -> [Ollama](https://github.com/ollama/ollama) / [Unsloth](https://github.com/unslothai/unsloth) / [Jan](https://github.com/menloresearch/jan) / [LM Studio](https://lmstudio.ai) / [Continue](https://github.com/continuedev/continue) / [Scira](https://github.com/zaidmukaddam/scira) / [Perplexica](https://github.com/ItzCrazyKns/Perplexica) / [LocalAI](https://github.com/mudler/LocalAI) / [PocketPal AI (Android)](https://github.com/a-ghorbani/pocketpal-ai)
+AI Chat -> [Ollama](https://github.com/ollama/ollama) / [Unsloth](https://github.com/unslothai/unsloth) / [Jan](https://github.com/menloresearch/jan) / [Continue](https://github.com/continuedev/continue) / [Scira](https://github.com/zaidmukaddam/scira) / [Perplexica](https://github.com/ItzCrazyKns/Perplexica) / [LocalAI](https://github.com/mudler/LocalAI) / [PocketPal AI (Android)](https://github.com/a-ghorbani/pocketpal-ai)
 
 AI Image Generator -> [ComfyUI](https://github.com/Comfy-Org/ComfyUI) / [Easy Diffusion](https://github.com/easydiffusion/easydiffusion) / [Fooocus](https://github.com/lllyasviel/Fooocus)
 
