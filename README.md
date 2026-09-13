@@ -130,6 +130,8 @@ Development Tools -> [Gitea](https://github.com/go-gitea/gitea)
 
 Server Software -> [Glance](https://github.com/glanceapp/glance) / [Homarr](https://github.com/homarr-labs/homarr) - [Gotify](https://github.com/gotify/server) - [File Browser](https://github.com/filebrowser/filebrowser) - [Termix](https://github.com/Termix-SSH/Termix)
 
+Security -> [Fail2Ban](https://github.com/fail2ban/fail2ban) / [CrowdSec](https://github.com/crowdsecurity/crowdsec) - [Firejail](https://github.com/netblue30/firejail)
+
 DNS -> [Pi-Hole](https://github.com/pi-hole/pi-hole) / [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome) - [Dnscrypt-Proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - [Unbound](https://github.com/NLnetLabs/unbound)   
 
 Bookmark Manager -> [Linkwarden](https://github.com/linkwarden/linkwarden)
