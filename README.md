@@ -114,8 +114,6 @@ Android Uninstaller -> [Canta](https://github.com/samolego/Canta)
 
 ## Self-Hosting
 
-Dashboard -> [Glance](https://github.com/glanceapp/glance) / [Homarr](https://github.com/homarr-labs/homarr)
-
 Security -> [Fail2Ban](https://github.com/fail2ban/fail2ban) / [CrowdSec](https://github.com/crowdsecurity/crowdsec) - [Firejail](https://github.com/netblue30/firejail)
 
 Cloud App -> [Nextcloud](https://github.com/nextcloud/server)
