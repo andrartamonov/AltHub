@@ -124,8 +124,6 @@ Monitoring -> [RSS Bridge](https://github.com/RSS-Bridge/rss-bridge) - [Changede
 
 Streaming Service -> [Jellyfin](https://github.com/jellyfin/jellyfin) / [Navidrome](https://github.com/navidrome/navidrome) / [Feishin](https://github.com/jeffvli/feishin) / [Koel](https://github.com/koel/koel)
 
-Development Tools -> [Gitea](https://github.com/go-gitea/gitea)
-
 Server Software -> [CasaOS](https://github.com/IceWhaleTech/CasaOS) - [Glance](https://github.com/glanceapp/glance) / [Homarr](https://github.com/homarr-labs/homarr) - [Gotify](https://github.com/gotify/server) - [File Browser](https://github.com/filebrowser/filebrowser) - [Termix](https://github.com/Termix-SSH/Termix)
 
 Security -> [Fail2Ban](https://github.com/fail2ban/fail2ban) / [CrowdSec](https://github.com/crowdsecurity/crowdsec)
