@@ -138,6 +138,8 @@ Document Management -> [Paperless-Ngx](https://github.com/paperless-ngx/paperles
 
 Communication -> [Mumble](https://github.com/mumble-voip/mumble) / [Jitsi Meet](https://github.com/jitsi/jitsi-meet) / [Stoat](https://github.com/stoatchat/self-hosted) 
 
+Development Tools -> [Gitea](https://github.com/go-gitea/gitea)
+
 
 ## Useful Links
 | Name | Description |
