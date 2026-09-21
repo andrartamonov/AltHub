@@ -124,8 +124,6 @@ Streaming Service -> [Jellyfin](https://github.com/jellyfin/jellyfin) / [Navidro
 
 Monitoring -> [RSS Bridge](https://github.com/RSS-Bridge/rss-bridge) - [Changedetection](https://github.com/dgtlmoon/changedetection.io) - [Uptime Kuma](https://github.com/louislam/uptime-kuma) - [Ghostfolio](https://github.com/ghostfolio/ghostfolio) 
 
-Streaming Service -> [Jellyfin](https://github.com/jellyfin/jellyfin) / [Navidrome](https://github.com/navidrome/navidrome) / [Feishin](https://github.com/jeffvli/feishin) / [Koel](https://github.com/koel/koel)
-
 Server Software -> [CasaOS](https://github.com/IceWhaleTech/CasaOS) - [Glance](https://github.com/glanceapp/glance) / [Homarr](https://github.com/homarr-labs/homarr) - [Gotify](https://github.com/gotify/server) - [File Browser](https://github.com/filebrowser/filebrowser) - [Termix](https://github.com/Termix-SSH/Termix)
 
 Security -> [Fail2Ban](https://github.com/fail2ban/fail2ban) / [CrowdSec](https://github.com/crowdsecurity/crowdsec)
