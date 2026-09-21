@@ -120,6 +120,8 @@ Photo and Video -> [Immich](https://github.com/immich-app/immich)
 
 Smart Devices -> [Home Assistant](https://github.com/home-assistant/core)
 
+Streaming Service -> [Jellyfin](https://github.com/jellyfin/jellyfin) / [Navidrome](https://github.com/navidrome/navidrome) / [Feishin](https://github.com/jeffvli/feishin) / [Koel](https://github.com/koel/koel)
+
 Monitoring -> [RSS Bridge](https://github.com/RSS-Bridge/rss-bridge) - [Changedetection](https://github.com/dgtlmoon/changedetection.io) - [Uptime Kuma](https://github.com/louislam/uptime-kuma) - [Ghostfolio](https://github.com/ghostfolio/ghostfolio) 
 
 Streaming Service -> [Jellyfin](https://github.com/jellyfin/jellyfin) / [Navidrome](https://github.com/navidrome/navidrome) / [Feishin](https://github.com/jeffvli/feishin) / [Koel](https://github.com/koel/koel)
