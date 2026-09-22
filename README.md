@@ -155,3 +155,5 @@ Development Tools -> [Gitea](https://github.com/go-gitea/gitea)
 
 ## Icons
 ☁️ - Available for Self-Hosting
+
+🤖 - Only Android
