@@ -128,7 +128,7 @@ Server Software -> [CasaOS](https://github.com/IceWhaleTech/CasaOS) - [Glance](h
 
 Security -> [Fail2Ban](https://github.com/fail2ban/fail2ban) / [CrowdSec](https://github.com/crowdsecurity/crowdsec)
 
-DNS -> [Pi-Hole](https://github.com/pi-hole/pi-hole) / [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome) - [Dnscrypt-Proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - [Unbound](https://github.com/NLnetLabs/unbound)   
+DNS -> [Pi-Hole](https://github.com/pi-hole/pi-hole) / [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome) - [Dnscrypt-Proxy](https://github.com/DNSCrypt/dnscrypt-proxy)  
 
 Bookmark Manager -> [Linkwarden](https://github.com/linkwarden/linkwarden)
 
