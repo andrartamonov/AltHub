@@ -28,7 +28,7 @@ Email -> [Proton Mail](https://proton.me/mail)
 
 Email Protection -> [Proton Mail Aliases](https://proton.me/mail) / [SimpleLogin](https://github.com/simple-login/app) / [Firefox Relay](https://relay.firefox.com) / [DDG Email Protection](https://duckduckgo.com/email) 
 
-Calendar -> [Proton Calendar](https://proton.me/calendar) / [Fossify Calendar (Android)](https://github.com/FossifyOrg/Calendar)
+Calendar -> [Proton Calendar](https://proton.me/calendar) / [Fossify Calendar](https://github.com/FossifyOrg/Calendar) 🤖
 
 Tasks and Habits -> [Obsidian](https://obsidian.md) / [Habitica](https://habitica.com) ☁️ / [Tasks](https://github.com/tasks/tasks) 🤖
 
