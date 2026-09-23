@@ -36,7 +36,7 @@ Notes -> [Obsidian](https://obsidian.md) / [Joplin](https://github.com/laurent22
 
 Password Manager -> [KeePassXC](https://github.com/keepassxreboot/keepassxc) / [Bitwarden](https://bitwarden.com) ☁️ / [Proton Pass](https://proton.me/pass) 
 
-Authenticator -> [Aegis](https://github.com/beemdevelopment/Aegis) / [Ente Auth](https://github.com/ente-io/ente) / [2FAS](https://2fas.com)
+Authenticator -> [Aegis](https://github.com/beemdevelopment/Aegis) / [Ente Auth](https://github.com/ente-io/ente) / [2FAS](https://github.com/twofas/2fas-android)
 
 Cloud Drive -> [Mega](https://mega.io) / [Proton Drive](https://proton.me/drive)
 
