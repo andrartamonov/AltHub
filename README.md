@@ -32,7 +32,7 @@ Calendar -> [Proton Calendar](https://proton.me/calendar) / [Fossify Calendar](h
 
 Tasks and Habits -> [Obsidian](https://obsidian.md) / [Habitica](https://habitica.com) ☁️ / [Tasks](https://github.com/tasks/tasks) 🤖
 
-Notes -> [Obsidian](https://obsidian.md) / [Joplin](https://github.com/laurent22/joplin) / [Quillpad (Android)](https://github.com/quillpad/quillpad)
+Notes -> [Obsidian](https://obsidian.md) / [Joplin](https://github.com/laurent22/joplin) / [Quillpad](https://github.com/quillpad/quillpad) 🤖
 
 Password Manager -> [KeePassXC](https://github.com/keepassxreboot/keepassxc) / [Bitwarden](https://bitwarden.com) ☁️ / [Proton Pass](https://proton.me/pass) 
 
