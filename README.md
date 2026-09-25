@@ -62,8 +62,6 @@ Communication -> [Signal](https://signal.org) / [Element](https://element.io) â˜
 
 Speech to Text -> [Handy](https://github.com/cjpais/Handy)
 
-Android Browser -> [Brave](https://brave.com)
-
 Android Authenticator -> [Aegis](https://github.com/beemdevelopment/Aegis) / [Ente Auth](https://github.com/ente-io/ente) / [2FAS](https://github.com/twofas/2fas-android)
 
 Android Email Clients -> [Thunderbird](https://github.com/thunderbird/thunderbird-android)
