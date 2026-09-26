@@ -122,7 +122,7 @@ Streaming Service -> [Jellyfin](https://github.com/jellyfin/jellyfin) / [Navidro
 
 Monitoring -> [RSS Bridge](https://github.com/RSS-Bridge/rss-bridge)
 
-Server Software -> [CasaOS](https://github.com/IceWhaleTech/CasaOS) - [Glance](https://github.com/glanceapp/glance) / [Homarr](https://github.com/homarr-labs/homarr) - [File Browser](https://github.com/filebrowser/filebrowser) - [Termix](https://github.com/Termix-SSH/Termix)
+Server Software -> [CasaOS](https://github.com/IceWhaleTech/CasaOS) - [Glance](https://github.com/glanceapp/glance) / [Homarr](https://github.com/homarr-labs/homarr) - [Termix](https://github.com/Termix-SSH/Termix)
 
 Security -> [Fail2Ban](https://github.com/fail2ban/fail2ban) / [CrowdSec](https://github.com/crowdsecurity/crowdsec)
 
