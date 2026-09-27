@@ -130,8 +130,6 @@ DNS -> [Pi-Hole](https://github.com/pi-hole/pi-hole) / [AdGuard Home](https://gi
 
 Bookmark Manager -> [Linkwarden](https://github.com/linkwarden/linkwarden)
 
-Document Management -> [Paperless-Ngx](https://github.com/paperless-ngx/paperless-ngx)
-
 Communication -> [Mumble](https://github.com/mumble-voip/mumble) / [Jitsi Meet](https://github.com/jitsi/jitsi-meet) / [Stoat](https://github.com/stoatchat/self-hosted) 
 
 Development Tools -> [Gitea](https://github.com/go-gitea/gitea)
