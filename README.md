@@ -104,7 +104,7 @@ Remote Tools -> [RustDesk](https://github.com/rustdesk/rustdesk)
 
 ## Android APK
 
-Android App Store -> [Obtainium](https://github.com/ImranR98/Obtainium) / [Accrescent](https://github.com/accrescent/accrescent) / [OpenAPK](https://github.com/mobilenetworkltd/openapk)
+App Store -> [Obtainium](https://github.com/ImranR98/Obtainium) / [Accrescent](https://github.com/accrescent/accrescent) / [OpenAPK](https://github.com/mobilenetworkltd/openapk)
 
 Android AdBlock -> [AdAway](https://github.com/AdAway/AdAway) 
 
