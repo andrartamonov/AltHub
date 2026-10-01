@@ -106,7 +106,7 @@ Remote Tools -> [RustDesk](https://github.com/rustdesk/rustdesk)
 
 App Store -> [Obtainium](https://github.com/ImranR98/Obtainium) / [Accrescent](https://github.com/accrescent/accrescent) / [OpenAPK](https://github.com/mobilenetworkltd/openapk)
 
-Android AdBlock -> [AdAway](https://github.com/AdAway/AdAway) 
+AdBlock -> [AdAway](https://github.com/AdAway/AdAway) 
 
 Android Weather -> [Breezy Weather](https://github.com/breezy-weather/breezy-weather) / [WeatherMaster](https://github.com/PranshulGG/WeatherMaster)
 
