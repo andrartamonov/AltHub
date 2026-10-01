@@ -110,7 +110,7 @@ AdBlock -> [AdAway](https://github.com/AdAway/AdAway)
 
 Weather -> [Breezy Weather](https://github.com/breezy-weather/breezy-weather) / [WeatherMaster](https://github.com/PranshulGG/WeatherMaster)
 
-Android Uninstaller -> [Canta](https://github.com/samolego/Canta) 
+Uninstaller -> [Canta](https://github.com/samolego/Canta) 
 
 
 ## Self-Hosting
