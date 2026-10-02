@@ -131,7 +131,7 @@ Security -> [Fail2Ban](https://github.com/fail2ban/fail2ban) / [CrowdSec](https:
 
 DNS -> [Pi-Hole](https://github.com/pi-hole/pi-hole) / [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome) - [Dnscrypt-Proxy](https://github.com/DNSCrypt/dnscrypt-proxy)  
 
-Communication -> [Mumble](https://github.com/mumble-voip/mumble) / [Jitsi Meet](https://github.com/jitsi/jitsi-meet) / [Stoat](https://github.com/stoatchat/self-hosted) 
+Communication -> [Mumble](https://github.com/mumble-voip/mumble) / [Jitsi Meet](https://github.com/jitsi/jitsi-meet) / [Stoat](https://github.com/stoatchat/self-hosted) / [Fluxer](https://github.com/fluxerapp/fluxer)  
 
 Development Tools -> [Gitea](https://github.com/go-gitea/gitea)
 
