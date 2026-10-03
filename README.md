@@ -63,23 +63,6 @@ Communication -> [Signal](https://signal.org) / [Element](https://element.io) â˜
 Speech to Text -> [Handy](https://github.com/cjpais/Handy)
 
 
-## Android Store
-
-Android Authenticator -> [Aegis](https://github.com/beemdevelopment/Aegis) / [Ente Auth](https://github.com/ente-io/ente) / [2FAS](https://github.com/twofas/2fas-android)
-
-Android Email Clients -> [Thunderbird](https://github.com/thunderbird/thunderbird-android)
-
-Android Photo Gallery -> [Fossify Gallery](https://github.com/FossifyOrg/Gallery)
-
-Android File Manager -> [Fossify File Manager](https://github.com/FossifyOrg/File-Manager) / [Material Files](https://github.com/zhanghai/MaterialFiles)
-
-Android Music Player -> [Musicolet](https://play.google.com) / [Auxio](https://github.com/OxygenCobalt/Auxio)
-
-Android Book Tracker -> [Openreads](https://github.com/mateusz-bak/openreads)
-
-Android Contacts -> [Fossify Contacts](https://github.com/FossifyOrg/Contacts)
-
-
 ## Advanced Installation
 
 Linux OS -> [Mint](https://en.wikipedia.org/wiki/Linux_Mint) / [Ubuntu](https://en.wikipedia.org/wiki/Ubuntu) / [Zorin OS](https://en.wikipedia.org/wiki/Zorin_OS) / [Manjaro](https://en.wikipedia.org/wiki/Manjaro) / [Debian](https://en.wikipedia.org/wiki/Debian)
