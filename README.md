@@ -105,6 +105,23 @@ Sandbox -> [Sandboxie](https://github.com/sandboxie-plus/Sandboxie) / [Firejail]
 Remote Tools -> [RustDesk](https://github.com/rustdesk/rustdesk)
 
 
+## Android Store
+
+Android Authenticator -> [Aegis](https://github.com/beemdevelopment/Aegis) / [Ente Auth](https://github.com/ente-io/ente) / [2FAS](https://github.com/twofas/2fas-android)
+
+Android Email Clients -> [Thunderbird](https://github.com/thunderbird/thunderbird-android)
+
+Android Photo Gallery -> [Fossify Gallery](https://github.com/FossifyOrg/Gallery)
+
+Android File Manager -> [Fossify File Manager](https://github.com/FossifyOrg/File-Manager) / [Material Files](https://github.com/zhanghai/MaterialFiles)
+
+Android Music Player -> [Musicolet](https://play.google.com) / [Auxio](https://github.com/OxygenCobalt/Auxio)
+
+Android Book Tracker -> [Openreads](https://github.com/mateusz-bak/openreads)
+
+Android Contacts -> [Fossify Contacts](https://github.com/FossifyOrg/Contacts)
+
+
 ## Android APK
 
 App Store -> [Obtainium](https://github.com/ImranR98/Obtainium) / [Accrescent](https://github.com/accrescent/accrescent) / [OpenAPK](https://github.com/mobilenetworkltd/openapk)
