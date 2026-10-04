@@ -104,6 +104,8 @@ Android Book Tracker -> [Openreads](https://github.com/mateusz-bak/openreads)
 
 Android Contacts -> [Fossify Contacts](https://github.com/FossifyOrg/Contacts)
 
+Android Weather -> [WeatherMaster](https://github.com/PranshulGG/WeatherMaster)
+
 
 ## Android APK
 
