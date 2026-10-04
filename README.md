@@ -113,7 +113,7 @@ App Store -> [Obtainium](https://github.com/ImranR98/Obtainium) / [Accrescent](h
 
 AdBlock -> [AdAway](https://github.com/AdAway/AdAway) 
 
-Weather -> [Breezy Weather](https://github.com/breezy-weather/breezy-weather) / [WeatherMaster](https://github.com/PranshulGG/WeatherMaster)
+Weather -> [Breezy Weather](https://github.com/breezy-weather/breezy-weather)
 
 Uninstaller -> [Canta](https://github.com/samolego/Canta) 
 
