@@ -96,7 +96,7 @@ Email Clients -> [Thunderbird](https://github.com/thunderbird/thunderbird-androi
 
 Photo Gallery -> [Fossify Gallery](https://github.com/FossifyOrg/Gallery)
 
-Android File Manager -> [Fossify File Manager](https://github.com/FossifyOrg/File-Manager) / [Material Files](https://github.com/zhanghai/MaterialFiles)
+File Manager -> [Fossify File Manager](https://github.com/FossifyOrg/File-Manager) / [Material Files](https://github.com/zhanghai/MaterialFiles)
 
 Android Music Player -> [Musicolet](https://play.google.com) / [Auxio](https://github.com/OxygenCobalt/Auxio)
 
