@@ -100,7 +100,7 @@ File Manager -> [Fossify File Manager](https://github.com/FossifyOrg/File-Manage
 
 Music Player -> [Musicolet](https://play.google.com) / [Auxio](https://github.com/OxygenCobalt/Auxio)
 
-Android Book Tracker -> [Openreads](https://github.com/mateusz-bak/openreads)
+Book Tracker -> [Openreads](https://github.com/mateusz-bak/openreads)
 
 Android Contacts -> [Fossify Contacts](https://github.com/FossifyOrg/Contacts)
 
