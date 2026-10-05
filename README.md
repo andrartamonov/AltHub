@@ -94,7 +94,7 @@ Authenticator -> [Aegis](https://github.com/beemdevelopment/Aegis) / [Ente Auth]
 
 Email Clients -> [Thunderbird](https://github.com/thunderbird/thunderbird-android)
 
-Android Photo Gallery -> [Fossify Gallery](https://github.com/FossifyOrg/Gallery)
+Photo Gallery -> [Fossify Gallery](https://github.com/FossifyOrg/Gallery)
 
 Android File Manager -> [Fossify File Manager](https://github.com/FossifyOrg/File-Manager) / [Material Files](https://github.com/zhanghai/MaterialFiles)
 
