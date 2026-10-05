@@ -90,7 +90,7 @@ Remote Tools -> [RustDesk](https://github.com/rustdesk/rustdesk)
 
 ## Android Store
 
-Android Authenticator -> [Aegis](https://github.com/beemdevelopment/Aegis) / [Ente Auth](https://github.com/ente-io/ente) / [2FAS](https://github.com/twofas/2fas-android)
+Authenticator -> [Aegis](https://github.com/beemdevelopment/Aegis) / [Ente Auth](https://github.com/ente-io/ente) / [2FAS](https://github.com/twofas/2fas-android)
 
 Android Email Clients -> [Thunderbird](https://github.com/thunderbird/thunderbird-android)
 
