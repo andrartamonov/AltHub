@@ -40,7 +40,7 @@ Cloud Drive -> [Mega](https://mega.io) / [Proton Drive](https://proton.me/drive)
 
 File Transfer -> [LocalSend](https://github.com/localsend/localsend)
 
-Maps -> [OpenStreetMap](https://www.openstreetmap.org)
+Maps -> [OpenStreetMap](https://www.openstreetmap.org) / [Organic Maps](https://github.com/organicmaps/organicmaps)
 
 Media Player -> [VLC](https://github.com/videolan/vlc) 
 
