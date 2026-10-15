@@ -79,7 +79,7 @@ AI Chat -> [Ollama](https://github.com/ollama/ollama) / [Unsloth](https://github
 
 AI Image Generator -> [ComfyUI](https://github.com/Comfy-Org/ComfyUI) / [Easy Diffusion](https://github.com/easydiffusion/easydiffusion) / [Fooocus](https://github.com/lllyasviel/Fooocus)
 
-AI Coding -> [Continue](https://github.com/continuedev/continue)
+AI Coding -> [OpenCode](https://github.com/anomalyco/opencode) / [Continue](https://github.com/continuedev/continue)
 
 Synchronization -> [Syncthing](https://github.com/syncthing/syncthing)
 
