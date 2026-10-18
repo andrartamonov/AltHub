@@ -48,7 +48,7 @@ BitTorrent Client -> [qBittorrent](https://github.com/qbittorrent/qBittorrent)
 
 3D Computer Graphics -> [Blender](https://en.wikipedia.org/wiki/Blender_(software))
 
-2D Computer Graphics -> [Krita](https://github.com/KDE/krita) / [Clip Studio Paint](https://www.clipstudio.net) 
+2D Computer Graphics -> [Krita](https://github.com/KDE/krita) / [Clip Studio Paint](https://www.clipstudio.net) / [PhotoCraft](https://github.com/storytold/photocraft)
 
 Design Tools -> [Penpot](https://penpot.app) ☁️
 
