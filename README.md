@@ -81,6 +81,8 @@ AI Image Generator -> [ComfyUI](https://github.com/Comfy-Org/ComfyUI) / [Easy Di
 
 AI Coding -> [OpenCode](https://github.com/anomalyco/opencode) / [Continue](https://github.com/continuedev/continue)
 
+AI Search -> [Scira](https://github.com/zaidmukaddam/scira) / [Perplexica](https://github.com/ItzCrazyKns/Perplexica)
+
 Synchronization -> [Syncthing](https://github.com/syncthing/syncthing)
 
 Browser Forks -> [LibreWolf](https://librewolf.net) / [Ungoogled Chromium ](https://github.com/ungoogled-software/ungoogled-chromium)
