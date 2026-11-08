@@ -26,7 +26,7 @@ Search Engines -> [Brave Search](https://search.brave.com)
 
 Email -> [Proton Mail](https://proton.me/mail)
 
-Email Protection -> [Proton Mail Aliases](https://proton.me/mail) / [SimpleLogin](https://github.com/simple-login/app) / [Firefox Relay](https://relay.firefox.com) / [DDG Email Protection](https://duckduckgo.com/email) 
+Email Protection -> [Proton Mail Aliases](https://proton.me/mail) / [SimpleLogin](https://github.com/simple-login/app) / [Firefox Relay](https://relay.firefox.com)
 
 Calendar -> [Proton Calendar](https://proton.me/calendar) / [Fossify Calendar](https://github.com/FossifyOrg/Calendar) 🤖
 
