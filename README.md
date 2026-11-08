@@ -22,7 +22,7 @@ Browser -> [Firefox](https://www.mozilla.org/en-US/firefox/new/) / [Brave](https
 
 Browser Extensions -> [uBlock Origin](https://github.com/gorhill/uBlock) / [Privacy Badger](https://github.com/EFForg/privacybadger)
 
-Search Engines -> [DuckDuckGo](https://duckduckgo.com) / [Brave Search](https://search.brave.com)
+Search Engines -> [Brave Search](https://search.brave.com)
 
 Email -> [Proton Mail](https://proton.me/mail)
 
