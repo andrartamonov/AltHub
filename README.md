@@ -20,7 +20,7 @@ If you are tired of privacy and security issues and want to improve them, this l
 
 Browser -> [Firefox](https://www.mozilla.org/en-US/firefox/new/) / [Brave](https://brave.com) 🟢
 
-Browser Extensions -> [uBlock Origin](https://github.com/gorhill/uBlock) / [DuckDuckGo Privacy Essentials](https://github.com/duckduckgo/duckduckgo-privacy-extension) / [Privacy Badger](https://github.com/EFForg/privacybadger)
+Browser Extensions -> [uBlock Origin](https://github.com/gorhill/uBlock) / [Privacy Badger](https://github.com/EFForg/privacybadger)
 
 Search Engines -> [DuckDuckGo](https://duckduckgo.com) / [Brave Search](https://search.brave.com)
 
