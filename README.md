@@ -87,7 +87,7 @@ Synchronization -> [Syncthing](https://github.com/syncthing/syncthing)
 
 Browser Forks -> [LibreWolf](https://librewolf.net) / [Ungoogled Chromium ](https://github.com/ungoogled-software/ungoogled-chromium)
 
-Sandbox -> [Sandboxie](https://github.com/sandboxie-plus/Sandboxie) / [Firejail](https://github.com/netblue30/firejail)
+Sandbox -> [Sandboxie](https://github.com/sandboxie-plus/Sandboxie) / [Firejail](https://github.com/netblue30/firejail) 🐧
 
 Remote Tools -> [RustDesk](https://github.com/rustdesk/rustdesk)
 
