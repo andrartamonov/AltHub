@@ -167,3 +167,5 @@ Development Tools -> [Gitea](https://github.com/go-gitea/gitea)
 🤖 - Only Android
 
 🟢 - Recommended for Android
+
+🐧 - Only Linux
