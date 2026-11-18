@@ -124,7 +124,7 @@ Android -> [LineageOS](https://www.lineageos.org) / [GrapheneOS](https://en.wiki
 
 Home Server -> [UmbrelOS](https://github.com/getumbrel/umbrel)
 
-Hypervisor OS -> [Proxmox VE](https://en.wikipedia.org/wiki/Proxmox_Virtual_Environment)
+Hypervisor -> [Proxmox VE](https://en.wikipedia.org/wiki/Proxmox_Virtual_Environment)
 
 
 ## Self-Hosting
