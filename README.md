@@ -120,7 +120,7 @@ Uninstaller -> [Canta](https://github.com/samolego/Canta)
 
 Linux -> [Mint](https://en.wikipedia.org/wiki/Linux_Mint) / [Ubuntu](https://en.wikipedia.org/wiki/Ubuntu) / [Zorin OS](https://en.wikipedia.org/wiki/Zorin_OS) / [Manjaro](https://en.wikipedia.org/wiki/Manjaro) / [Debian](https://en.wikipedia.org/wiki/Debian)
 
-Android OS -> [LineageOS](https://www.lineageos.org) / [GrapheneOS](https://en.wikipedia.org/wiki/GrapheneOS)
+Android -> [LineageOS](https://www.lineageos.org) / [GrapheneOS](https://en.wikipedia.org/wiki/GrapheneOS)
 
 Home Server OS -> [UmbrelOS](https://github.com/getumbrel/umbrel)
 
