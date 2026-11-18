@@ -124,6 +124,17 @@ Weather -> [Breezy Weather](https://github.com/breezy-weather/breezy-weather)
 Uninstaller -> [Canta](https://github.com/samolego/Canta) 
 
 
+## Operating Systems
+
+Linux OS -> [Mint](https://en.wikipedia.org/wiki/Linux_Mint) / [Ubuntu](https://en.wikipedia.org/wiki/Ubuntu) / [Zorin OS](https://en.wikipedia.org/wiki/Zorin_OS) / [Manjaro](https://en.wikipedia.org/wiki/Manjaro) / [Debian](https://en.wikipedia.org/wiki/Debian)
+
+Android OS -> [LineageOS](https://www.lineageos.org) / [GrapheneOS](https://en.wikipedia.org/wiki/GrapheneOS)
+
+Home Server OS -> [UmbrelOS](https://github.com/getumbrel/umbrel)
+
+Hypervisor OS -> [Proxmox VE](https://en.wikipedia.org/wiki/Proxmox_Virtual_Environment)
+
+
 ## Self-Hosting
 
 Cloud App -> [Nextcloud](https://github.com/nextcloud/server)
