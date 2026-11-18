@@ -122,7 +122,7 @@ Linux -> [Mint](https://en.wikipedia.org/wiki/Linux_Mint) / [Ubuntu](https://en.
 
 Android -> [LineageOS](https://www.lineageos.org) / [GrapheneOS](https://en.wikipedia.org/wiki/GrapheneOS)
 
-Home Server OS -> [UmbrelOS](https://github.com/getumbrel/umbrel)
+Home Server -> [UmbrelOS](https://github.com/getumbrel/umbrel)
 
 Hypervisor OS -> [Proxmox VE](https://en.wikipedia.org/wiki/Proxmox_Virtual_Environment)
 
