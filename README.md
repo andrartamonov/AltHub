@@ -65,14 +65,6 @@ Speech to Text -> [Handy](https://github.com/cjpais/Handy)
 
 ## Advanced Installation
 
-Linux OS -> [Mint](https://en.wikipedia.org/wiki/Linux_Mint) / [Ubuntu](https://en.wikipedia.org/wiki/Ubuntu) / [Zorin OS](https://en.wikipedia.org/wiki/Zorin_OS) / [Manjaro](https://en.wikipedia.org/wiki/Manjaro) / [Debian](https://en.wikipedia.org/wiki/Debian)
-
-Android OS -> [LineageOS](https://www.lineageos.org) / [GrapheneOS](https://en.wikipedia.org/wiki/GrapheneOS)
-
-Home Server OS -> [UmbrelOS](https://github.com/getumbrel/umbrel)
-
-Hypervisor OS -> [Proxmox VE](https://en.wikipedia.org/wiki/Proxmox_Virtual_Environment)
-
 Firewall -> [Simplewall](https://github.com/henrypp/simplewall) / [Rethink](https://github.com/celzero/rethink-app) 🤖 / [Portmaster](https://github.com/safing/portmaster) / [NetGuard](https://github.com/M66B/NetGuard) 🤖
 
 AI Chat -> [Ollama](https://github.com/ollama/ollama) / [Unsloth](https://github.com/unslothai/unsloth) / [Jan](https://github.com/menloresearch/jan) / [LocalAI](https://github.com/mudler/LocalAI) / [Open WebUI](https://github.com/open-webui/open-webui)
