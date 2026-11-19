@@ -85,6 +85,8 @@ Remote Tools -> [RustDesk](https://github.com/rustdesk/rustdesk)
 
 Privacy Tools -> [O&O ShutUp10](https://www.oo-software.com/en/shutup10)
 
+Package Managers -> [UniGetUI](https://github.com/Devolutions/UniGetUI)
+
 
 ## Android Store
 
