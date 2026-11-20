@@ -8,13 +8,6 @@
 
 If you are tired of privacy and security issues and want to improve them, this list of alternative apps may help you. Using privacy and security-focused applications protects your personal data, ensures anonymity, reduces the risk of hacks and leaks, provides control over your information, and fosters confidence in a safe online experience. This list includes applications and services that offer both simple installation through official websites or app stores, as well as more complex options that require knowledge of working with APK files and server configuration.
 
-### What's the difference between Privacy, Security, Anonymity?
-
-- Privacy is the control over access to your personal information, including awareness of the data being collected and the right to decide who can see and use it.
-
-- Security is the protection of your personal information from unauthorized access and theft, ensuring reliable storage and safeguarding data from threats.
-
-- Anonymity is the ability to act online without allowing others to trace your actions back to you, making you unrecognizable.
 
 ## Simple Installation
 
@@ -165,6 +158,16 @@ Development Tools -> [Gitea](https://github.com/go-gitea/gitea)
 | [Awesome Privacy](https://github.com/pluja/awesome-privacy) | List of free, open source and privacy respecting services and alternatives to privative services. |
 | [List of Linux distributions](https://en.wikipedia.org/wiki/List_of_Linux_distributions) | This page provides general information about notable Linux distributions in the form of a categorized list. |
 | [Have I Been Pwned?](https://en.wikipedia.org/wiki/Have_I_Been_Pwned) | Website that allows Internet users to check whether their personal data has been compromised by data breaches. |
+
+
+## Glossary
+
+- Privacy is the control over access to your personal information, including awareness of the data being collected and the right to decide who can see and use it.
+
+- Security is the protection of your personal information from unauthorized access and theft, ensuring reliable storage and safeguarding data from threats.
+
+- Anonymity is the ability to act online without allowing others to trace your actions back to you, making you unrecognizable.
+
 
 ## Icons
 ☁️ - Available for Self-Hosting
