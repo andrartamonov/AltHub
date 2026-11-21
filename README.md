@@ -56,7 +56,7 @@ Communication -> [Signal](https://signal.org) / [Element](https://element.io) �
 Speech to Text -> [Handy](https://github.com/cjpais/Handy)
 
 
-## Advanced Installation
+## Advanced
 
 Firewall -> [Simplewall](https://github.com/henrypp/simplewall) / [Rethink](https://github.com/celzero/rethink-app) 🤖 / [Portmaster](https://github.com/safing/portmaster) / [NetGuard](https://github.com/M66B/NetGuard) 🤖
 
