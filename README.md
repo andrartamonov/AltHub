@@ -146,6 +146,7 @@ Development Tools -> [Gitea](https://github.com/go-gitea/gitea)
 
 
 ## Useful Links
+
 | Name | Description |
 | ---- | ----------- |
 | [EFF](https://www.eff.org) | Electronic Frontier Foundation it is a non-profit organization that protects civil liberties in the digital world, including rights to privacy, freedom of speech, and innovation. It was founded in 1990. |
@@ -162,14 +163,15 @@ Development Tools -> [Gitea](https://github.com/go-gitea/gitea)
 
 ## Glossary
 
+- Anonymity is the ability to act online without allowing others to trace your actions back to you, making you unrecognizable.
+
 - Privacy is the control over access to your personal information, including awareness of the data being collected and the right to decide who can see and use it.
 
 - Security is the protection of your personal information from unauthorized access and theft, ensuring reliable storage and safeguarding data from threats.
 
-- Anonymity is the ability to act online without allowing others to trace your actions back to you, making you unrecognizable.
-
 
 ## Icons
+
 ☁️ - Available for Self-Hosting
 
 🤖 - Only Android
