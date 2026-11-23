@@ -60,7 +60,7 @@ Speech to Text -> [Handy](https://github.com/cjpais/Handy)
 
 Firewall -> [Simplewall](https://github.com/henrypp/simplewall) / [Rethink](https://github.com/celzero/rethink-app) 🤖 / [Portmaster](https://github.com/safing/portmaster) / [NetGuard](https://github.com/M66B/NetGuard) 🤖
 
-AI Chat -> [Ollama](https://github.com/ollama/ollama) / [Unsloth](https://github.com/unslothai/unsloth) / [Jan](https://github.com/menloresearch/jan) / [LocalAI](https://github.com/mudler/LocalAI) / [Open WebUI](https://github.com/open-webui/open-webui)
+AI Chat -> [Ollama](https://github.com/ollama/ollama) / [Unsloth](https://github.com/unslothai/unsloth) / [Jan](https://github.com/menloresearch/jan) / [LocalAI](https://github.com/mudler/LocalAI) / [Open WebUI](https://github.com/open-webui/open-webui) / [NextChat](https://github.com/ChatGPTNextWeb/NextChat)
 
 AI Image Generator -> [ComfyUI](https://github.com/Comfy-Org/ComfyUI) / [Easy Diffusion](https://github.com/easydiffusion/easydiffusion) / [Fooocus](https://github.com/lllyasviel/Fooocus)
 
